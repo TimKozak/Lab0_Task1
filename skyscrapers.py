@@ -1,6 +1,6 @@
 """
 Tim Kozak, UCU IT&BA, Lab0
-GitHub link:
+GitHub link: https://github.com/TimKozak/Lab0_Task1.git
 """
 
 
